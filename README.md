@@ -9,5 +9,5 @@ This project demonstrates how to to integrate an existing XML fragment using the
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Medium
-[Integrating Legacy XML Fragments into Jetpack Compose Android[2025]](https://wookoo.medium.com/)
+[Integrating Legacy XML Fragments into Jetpack Compose Android[2025]](https://wookoo.medium.com/integrating-legacy-xml-fragments-into-jetpack-compose-android-2025-d5cba5fee9ed)
 
